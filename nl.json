@@ -337,7 +337,7 @@
     "Platform": "Platform",
     "No session logs found": "Geen sessielogboeken gevonden",
     "Disable 2FA": "zet 2FA uit",
-    "Validate your two-factor enabling by scanning the following QR-code and enter your auto-generated 2-factor code from your phone.": Valideer je twee-factor activering door de volgende QR-code te scannen en uw automatisch gegenereerde twee-factor code vanaf jou telefoon in te voeren.",
+    "Validate your two-factor enabling by scanning the following QR-code and enter your auto-generated 2-factor code from your phone.": "Valideer je twee-factor activering door de volgende QR-code te scannen en uw automatisch gegenereerde twee-factor code vanaf jou telefoon in te voeren.",
     "Recovery codes:": "Herstel codes:",
     "Code": "Code",
     "Verify 2FA": "Verifieer 2FA",
